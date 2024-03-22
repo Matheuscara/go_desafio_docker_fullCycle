@@ -14,18 +14,7 @@ O Dockerfile foi cuidadosamente projetado para criar uma imagem mínima. O proce
   - Docker instalado na sua máquina.
   - Construção da Imagem
   - Para construir a imagem, execute o seguinte comando no diretório do projeto:
-
-bash
-Copy code
-docker build -t seu-usuario/fullcycle .
-Execução
-Para executar a imagem e ver a aplicação em ação, use:
-
-bash
-Copy code
-docker run seu-usuario/fullcycle
-Você verá a mensagem "Full Cycle Rocks!!" impressa no terminal.
-
+  
 # Tecnologias Utilizadas
 - GoLang
 - Docker
