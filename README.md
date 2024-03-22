@@ -18,5 +18,3 @@ O Dockerfile foi cuidadosamente projetado para criar uma imagem mínima. O proce
 # Tecnologias Utilizadas
 - GoLang
 - Docker
-- Autor
-[https://github.com/Matheuscara](Link para seu perfil no GitHub ou outra plataforma)
