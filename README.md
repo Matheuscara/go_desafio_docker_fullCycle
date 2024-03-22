@@ -7,6 +7,10 @@ Este projeto foi desenvolvido como parte de um desafio no Full Cycle Development
 # Solução
 Para atender ao desafio, a aplicação foi desenvolvida em GoLang, uma linguagem conhecida por sua simplicidade e eficiência. A aplicação é um simples "Hello World" que imprime "Full Cycle Rocks!!".
 
+# Docker imagem
+
+[https://hub.docker.com/repository/docker/diasdedev/docker_go_fullcycle/general]
+
 O Dockerfile foi cuidadosamente projetado para criar uma imagem mínima. O processo de build foi dividido em duas etapas: uma para compilar a aplicação Go estática e outra para executar a aplicação em um ambiente mínimo (scratch).
 
 # Como Construir e Executar
